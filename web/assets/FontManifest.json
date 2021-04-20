@@ -1,0 +1,34 @@
+[
+  {
+    "family": "InTimeIcons",
+    "fonts": [
+      {
+        "asset": "./InTimeIcons.ttf"
+      }
+    ]
+  },
+  {
+    "family": "HelveticaUltraLight",
+    "fonts": [
+      {
+        "asset": "./helveticaneue-ultralight.ttf"
+      }
+    ]
+  },
+  {
+    "family": "HelveticaLight",
+    "fonts": [
+      {
+        "asset": "./Helvetica-Light.ttf"
+      }
+    ]
+  },
+  {
+    "family": "Helvetica",
+    "fonts": [
+      {
+        "asset": "./Helvetica.ttf"
+      }
+    ]
+  }
+]
